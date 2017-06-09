@@ -47,4 +47,4 @@ day = p + 1
 #A print "Day = ", day
 
 easterDay = str(day) + " - " + str(n) + " - " + str(year)
-print "Easter Sunday : ", easterDay
+print "Easter Day : ", easterDay
